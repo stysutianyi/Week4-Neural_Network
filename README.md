@@ -33,3 +33,5 @@ In our last tutorial, we explored the basics of machine learning and supervised 
 
 ## Contact
 For queries or further discussions, feel free to reach out to TA( maryiam_zahoor@sfu.ca)
+
+Credits: https://github.com/IliaZenkov/sklearn-audio-classification 
